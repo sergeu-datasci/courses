@@ -1,3 +1,6 @@
+### Fork info
+
+Forked from https://github.com/rdpeng/courses.git at June 7, 2015.
 
 ### Data Science Specialization
 
